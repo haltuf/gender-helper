@@ -1,0 +1,6 @@
+extensions:
+	genderHelper: Haltuf\GenderHelper\DI\Extension
+
+genderHelper:
+	salutationFilter: 'oslov'
+	genderFilter: 'pohlavi'
